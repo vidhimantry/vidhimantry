@@ -5,7 +5,7 @@
 ---
 
 I’m a passionate **software developer** with a strong foundation in **full-stack web development, problem solving and computer science fundamentals**. I enjoy building **scalable, user-focused applications** and exploring how **AI can power impactful solutions**.   
-With hands-on experience in **hackathons, team projects, and internships**, I enjoy turning ideas into polished products and thrive in dynamic, collaborative environments where I can learn, grow, and build impactful solutions.
+With hands-on experience in **hackathons and team projects**, I enjoy turning ideas into polished products and thrive in dynamic, collaborative environments where I can learn, grow, and build impactful solutions.
 
 ---
 
