@@ -1,10 +1,15 @@
 <!-- Banner -->
-<h1 align="center">Hi, I'm Vidhi Mantry! 👩‍💻</h1>
+<h1 align="center">Hi, I'm Vidhi Mantry!👩‍💻 </h1>
 <h3 align="center"> Aspiring Software Engineer | Full-Stack Developer & AI Enthusiast 🚀</h3>
 
 ---
 
-## Tech Stacks 🛠️
+I’m a passionate **software developer** with a strong foundation in **full-stack web development, problem solving and computer science fundamentals**. I enjoy building **scalable, user-focused applications** and exploring how **AI can power impactful solutions**.   
+With hands-on experience in **hackathons, team projects, and internships**, I enjoy turning ideas into polished products and thrive in dynamic, collaborative environments where I can learn, grow, and build impactful solutions.
+
+---
+
+## Tech Stack 🛠️ 
 
 ### Programming Languages  
 <p>
@@ -23,9 +28,9 @@
 
 ---
 
-## Connect With Me 
-<p align="left">
-  <a href="mailto:mantryvidhi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/vidhi-mantry-b390432a7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/vidhimantry"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+## Let's Connect 🌐
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mantryvidhi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhi-mantry-b390432a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidhimantry)
+
