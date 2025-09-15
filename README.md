@@ -23,7 +23,7 @@ With hands-on experience in **hackathons and team projects**, I enjoy turning id
 
 ### Database & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,git,github,vercel,netlify,figma,npm,inshot" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,git,github,vercel,netlify,figma,npm" />
 </p>
 
 ---
