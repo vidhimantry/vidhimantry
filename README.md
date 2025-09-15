@@ -18,12 +18,12 @@ With hands-on experience in **hackathons and team projects**, I enjoy turning id
 
 ### Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite,nodejs,express,mongodb" />
 </p>
 
 ### Database & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,git,github,vercel,netlify,npm" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,git,github,vercel,netlify,figma,npm,inshot" />
 </p>
 
 ---
