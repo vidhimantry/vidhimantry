@@ -28,6 +28,16 @@ With hands-on experience in **hackathons and team projects**, I enjoy turning id
 
 ---
 
+## Holopin Badges 🎖️
+
+<div align="center">
+  <a href="https://holopin.io/@vidhihereee">
+    <img src="https://holopin.me/vidhihereee" alt="Holopin Badges" />
+  </a>
+</div>
+
+---
+
 ## Let's Connect 🌐
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mantryvidhi@gmail.com)
