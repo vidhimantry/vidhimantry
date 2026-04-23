@@ -13,17 +13,17 @@ With hands-on experience in **hackathons and team projects**, I enjoy turning id
 
 ### Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
-### Frameworks & Libraries  
+### Full-Stack Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-### Database & Tools  
+### Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,git,github,vercel,netlify,figma,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,npm" />
 </p>
 
 ---
